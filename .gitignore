@@ -1,0 +1,13 @@
+# Personal notes
+_my_docs/
+
+# Secrets / personal config
+.env
+.env.*
+!.env.example
+config/sources.yaml
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
